@@ -310,7 +310,79 @@ export default function GamingRewardsPage() {
         </div>
       </section>
 
-      <footer className="border-t border-zinc-800 py-12 px-6 text-center text-zinc-500 text-lg">
+      <section className="max-w-7xl mx-auto px-6 py-20">
+  <div className="bg-zinc-900 border border-zinc-800 rounded-3xl p-10 mb-12">
+    
+    <h2 className="text-5xl font-black mb-8 text-center text-green-400">
+      Sobre Nosotros
+    </h2>
+
+    <p className="text-zinc-300 text-lg leading-relaxed mb-6">
+      Mundo Gamer Rewards es una página creada para compartir noticias,
+      guías, eventos y consejos relacionados con videojuegos populares como
+      Roblox y Free Fire. Nuestro objetivo es ayudar a los jugadores a
+      descubrir métodos seguros y legales para conseguir recompensas,
+      participar en eventos oficiales y mantenerse actualizados con las
+      últimas novedades del mundo gamer.
+    </p>
+
+    <p className="text-zinc-300 text-lg leading-relaxed mb-6">
+      Nos enfocamos en publicar contenido informativo, tutoriales,
+      recomendaciones y artículos educativos sobre códigos promocionales,
+      seguridad de cuentas, eventos especiales y técnicas utilizadas por la
+      comunidad gamer. También buscamos advertir sobre páginas falsas,
+      estafas y métodos peligrosos que puedan afectar a los jugadores.
+    </p>
+
+    <p className="text-zinc-300 text-lg leading-relaxed">
+      Esta página no está afiliada oficialmente con Roblox Corporation,
+      Garena Free Fire ni con ninguna empresa relacionada. Todas las marcas
+      y nombres pertenecen a sus respectivos propietarios.
+    </p>
+
+  </div>
+
+  <div className="bg-zinc-900 border border-zinc-800 rounded-3xl p-10">
+    
+    <h2 className="text-5xl font-black mb-8 text-center text-cyan-400">
+      Política de Privacidad
+    </h2>
+
+    <p className="text-zinc-300 text-lg leading-relaxed mb-6">
+      En Mundo Gamer Rewards valoramos la privacidad de nuestros visitantes.
+      Esta página puede utilizar cookies y tecnologías similares para mejorar
+      la experiencia del usuario, analizar el tráfico y mostrar contenido
+      personalizado.
+    </p>
+
+    <p className="text-zinc-300 text-lg leading-relaxed mb-6">
+      Google AdSense y otros servicios de terceros pueden utilizar cookies
+      para mostrar anuncios basados en las visitas previas de los usuarios a
+      este y otros sitios web. Google utiliza cookies publicitarias para
+      ofrecer anuncios más relevantes según los intereses de cada visitante.
+    </p>
+
+    <p className="text-zinc-300 text-lg leading-relaxed mb-6">
+      Los usuarios pueden desactivar la publicidad personalizada visitando
+      la configuración de anuncios de Google. También pueden administrar o
+      eliminar cookies desde la configuración de su navegador.
+    </p>
+
+    <p className="text-zinc-300 text-lg leading-relaxed mb-6">
+      Esta página puede contener enlaces externos hacia otras plataformas o
+      sitios web. No somos responsables del contenido ni de las políticas de
+      privacidad de páginas externas.
+    </p>
+
+    <p className="text-zinc-300 text-lg leading-relaxed">
+      Al utilizar este sitio web, aceptas esta política de privacidad y el
+      uso de cookies para mejorar la experiencia del usuario.
+    </p>
+
+  </div>
+</section>
+
+<footer className="border-t border-zinc-800 py-12 px-6 text-center text-zinc-500 text-lg">
         <p className="mb-4">
           Esta página no está afiliada con Roblox Corporation ni Garena Free Fire.
         </p>
