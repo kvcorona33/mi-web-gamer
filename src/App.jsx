@@ -380,6 +380,28 @@ export default function GamingRewardsPage() {
     </p>
 
   </div>
+  <div className="bg-zinc-900 border border-zinc-800 rounded-3xl p-10 mt-12">
+    
+    <h2 className="text-5xl font-black mb-8 text-center text-pink-400">
+      Contacto
+    </h2>
+
+    <p className="text-zinc-300 text-lg leading-relaxed mb-6 text-center">
+      Si deseas comunicarte con nosotros para consultas, colaboraciones,
+      reportes o cualquier información relacionada con el contenido de la página,
+      puedes escribirnos directamente al siguiente correo electrónico:
+    </p>
+
+    <div className="text-center">
+      <a
+        href="mailto:jaja87235@gmail.com"
+        className="text-3xl font-bold text-cyan-400 hover:text-cyan-300 transition"
+      >
+        jaja87235@gmail.com
+      </a>
+    </div>
+
+  </div>
 </section>
 
 <footer className="border-t border-zinc-800 py-12 px-6 text-center text-zinc-500 text-lg">
